@@ -9,6 +9,7 @@ MIMIC-SBDH is a data set containing 7,025 discharge summary notes randomly selec
 5. Alcohol Use
 6. Tobacco Use
 7. Drug Use.
+
 In addition, we mark SBDH-related keywords are also marked in the notes. The folder contains two files:
 1. MIMIC-SBDH.csv: This file contains the labels for the seven SBDHs:
 	a. Community-Present (0: False, 1: True)
